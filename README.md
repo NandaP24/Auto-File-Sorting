@@ -16,11 +16,13 @@ Automatically organizes files in a folder by file type (e.g., `.pdf`, `.jpg`, `.
 
 ## Example
 Your folder :
+```lua
 book.pdf
 photo.jpg
 video.mp4
-
+```
 After running the program it will be :
+```bash
 pdf/book.pdf
 jpg/photo.jpg
 mp4/video.mp4
